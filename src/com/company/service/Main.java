@@ -10,7 +10,6 @@ public class Main {
         System.out.println("Hello world");
         System.out.println("Hello world 2");
 
-
         Product product;
         product = new Product("Keyboard");
 
